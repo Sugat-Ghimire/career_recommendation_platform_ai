@@ -1,0 +1,62 @@
+OME SEE MLinkedin ©Github Portfolio
+
+Education
+| July 2022
+BE: Electronics & Tele-Communication (GPA: 4.25 / 5.00) ES inicio
+
+Technical Skills
+
+Programming Languages: Python, SQL
+
+Machine Learning Libraries: Scikit-learn, Keras, Transformers, Pandas, NumPy, SciPy, Matplotlib
+
+Deep Learning: NN, RNN, LSTM, CNN, Transfer Learning, Hyperparameter Tuning, Regularization
+
+Natural Language Processing: Encoder-Decoder Model (BERT, ALBERT), NER, NLTK, Spacy, Transformers, Langchain
+Frameworks: Pytorch, Tensorflow, MLflow, Dockers
+
+Web Frameworks & Deployment: FastAPI, Flask, Streamlit
+
+Cloud Technology: AWS, Heroku, Azure
+
+Work Experience
+
+Dec 2023 - Jul 2024
+Artificial Intelligence Intern Remote, Singapore
+Developed 32 Python functions to address specific issues and queries, adhering to best coding practices and robust
+testing methodologies.
+Spearheaded the development of a solo project, Math Problem Solver, an Al-powered tool featuring data size
+reduction, carbon emission estimation, and reduction capabilities, inspired by SIN principles.
+Employed Python libraries (Streamlit, NLTK, SpaCy, SymPy) to implement NLP and mathematical solution
+capabilities within the tool.
+Achieved a 10% to 15% reduction in energy usage for the decarbonized version of the tool compared to the normal
+version.
+Demonstrated an average data reduction of 3% for the normal version and 23% for the decarbonized version.
+Work on this project earned recognition in a IJIN Institution report.
+Built a proof-of-concept FAQ chatbot leveraging Python, Langchain, Streamlit to deliver automated responses based
+on IIB dataset, showcasing proficiency in NLP and conversational Al development.
+
+Open Source Contribution
+
+Hugging Face Hub (huggingface/huggingface_hub) Aug 2024 - Present
+Contributed to enhancing the Hugging Face Hub’s functionality and code quality.
++ Feature addition: Implemented the update_repo_settings function to the HfApi, enabling users to modify repository
+settings programmatically (#2502).
+
++ Code refactoring: Refactored constant imports across the codebase to use module-level access, improving code
+maintainability and readability (#2453, #2469, #2489).
+
+Projects
+
+Project 1 : English-to-Spanish Machine Translation App © Github
+[ Python, PyTorch, Hugging Face Transformers, Streamlit, Docker }
++ Developed a real-time translation app using a fine-tuned MarianMT model and a user-friendly Streamlit interface.
++ Achieved a BLEU Score of 22.96 on a test dataset and conducted human evaluations to assess translation quality.
++ Optimized the model deployment using Docker containerization for scalability and portability.
+
+Project 2 : DataChat: Conversational Data Analysis Tool © Github
+[ Python, Langchain, Ollama (gemma2:2b), Streamlit, Pandas }
+* Led the design and implementation of the core application logic.
++ Successfully integrated LangChain, Ollama, and Streamlit to create a seamless user experience.
++ Managed data ingestion, preprocessing, and transformation tasks, leading to a 15% reduction in data loading time.
++ Built the interactive chat interface and handled user input/output, resulting in a 25% decrease in user error rates.
