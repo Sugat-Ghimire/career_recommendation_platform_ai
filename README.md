@@ -1,0 +1,1 @@
+This repository contains the AI microservice built with FastAPI for the Career Recommendation Platform. It serves as a standalone service that delivers intelligent career recommendations based on user inputs like skills, interests, and educational background
